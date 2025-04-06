@@ -1,1 +1,1 @@
-donation_page_ready.html
+//helpinghands_page_ready.com
