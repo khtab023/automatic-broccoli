@@ -1,1 +1,1 @@
-//helpinghands_page_ready.com
+helpinghands_page_ready.com
